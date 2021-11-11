@@ -1,0 +1,53 @@
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+header{
+    background-color: black;
+    padding: 20px;
+}
+
+a{
+    color: white;
+}
+.logo{
+    display: inline;
+
+}
+.image-pizza{
+background-image: url(./assets/img/delivery.png);
+background-repeat: no-repeat;
+background-size: cover;
+height: 350px;
+width: 490px;
+
+}
+
+.envio{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+color: white;
+padding: 19.38px 120px 302px 19.38px;
+}
+
+.section-2{
+    background-color: black;
+    height: 350px;
+    width: 490px;
+}
+.pedido{
+    color: red;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    padding: 26px ;
+}
+footer{
+    background-color: black;
+    padding: 20px;
+
+    }
